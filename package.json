@@ -1,0 +1,25 @@
+{
+    "author": "jrozek@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "tutorial",
+    "pebble": {
+        "displayName": "tutorial",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "rocky",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "547e71b6-f378-409d-9b26-311cfef21d5d",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
