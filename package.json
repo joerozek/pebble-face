@@ -4,6 +4,9 @@
     "keywords": [],
     "name": "tutorial",
     "pebble": {
+        "capabilities": [
+            "configurable"
+        ],
         "displayName": "tutorial",
         "enableMultiJS": true,
         "messageKeys": [],
@@ -13,10 +16,9 @@
         },
         "sdkVersion": "3",
         "targetPlatforms": [
-            "basalt",
             "chalk"
         ],
-        "uuid": "547e71b6-f378-409d-9b26-311cfef21d5d",
+        "uuid": "39361570-de08-4b3e-9f71-7822bdd67853",
         "watchapp": {
             "watchface": true
         }
